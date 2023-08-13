@@ -68,12 +68,12 @@ body {
   height: 17rem;
   object-fit: cover;
   background-color: #eee;
-  border-top-left-radius: 0.7rem;
-  border-top-right-radius: 0.7rem;
+  border-radius: 0.7rem;
+  border-bottom: 1px gray solid;
 }
 
 .country__data {
-  padding: 2.5rem 3.75rem 3rem 3.75rem;
+  padding:10px 20px 20px;
 }
 
 .country__name {
@@ -99,6 +99,7 @@ body {
 }
 
 .btn-country {
+  margin-top: 25px;
   border: none;
   font-size: 2rem;
   padding: 2rem 5rem;
