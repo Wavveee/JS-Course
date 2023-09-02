@@ -1,5 +1,6 @@
 6739
 112D:\Front-End\JS-Course\JavaScript\17-Modern-JS-Modules-Tooling\node_modules\css-tree\cjs\generator\sourceMap.cjs133365916621712960 0
+84D:\Front-End\JS-Course\JavaScript\17-Modern-JS-Modules-Tooling\node_modules\error-ex133365916574576289 1
 124D:\Front-End\JS-Course\JavaScript\17-Modern-JS-Modules-Tooling\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133365916613093955 0
 91D:\Front-End\JS-Course\JavaScript\17-Modern-JS-Modules-Tooling\node_modules\js-yaml\LICENSE133365916571574950 0
 112D:\Front-End\JS-Course\JavaScript\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\features\webnfc.js133365916645220715 0
